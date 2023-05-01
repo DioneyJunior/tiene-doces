@@ -1,39 +1,52 @@
 <template>
-  <div class="container-fluid pt-4 pb-4 text-center">
+  <div class="container-fluid pt-4 pb-4 text-center" id="template">
     <h1 class="pb-3 services-title-p3">Serviços</h1>
     <div class="card-group">
-      <div class="card align-items-center animate__animated animate__fadeInUp">
-        <img src="../../public/images/psychotherapy.jpg" class="card-img-top w-50" alt="..." />
+      <div class="card align-items-center animate__animated animate__fadeInUp" id="card-img-1">
+        <img src="../../public/images/birthdays.png" class="card-img-top w-50" alt="..." />
         <div class="card-body">
-          <h5 class="card-title">Atendimento Psicológico</h5>
+          <h5 class="card-title">Aniversários</h5>
           <p class="card-text">
-            Atendimentos Psicológicos voltados para todos os públicos (Infantil, Adolescente, Adulto
-            e Idoso).
+            Nós sabemos que o seu casamento é um dos dias mais importantes da sua vida. É por isso
+            que nos dedicamos a criar doces finos de alta qualidade para tornar o seu grande dia
+            ainda mais especial. Com uma ampla seleção de sabores e estilos, nossos doces para
+            casamentos são perfeitos para deixar seus convidados com água na boca e fazer com que
+            eles se lembrem do seu casamento por muito tempo. De bolos decorados a macarons
+            elegantes, temos tudo o que você precisa para fazer do seu casamento um evento
+            inesquecível.
           </p>
         </div>
       </div>
-      <div class="card align-items-center animate__animated animate__fadeInUp animate__delay-1s">
-        <img
-          src="../../public/images/parents-orientation.jpeg"
-          class="card-img-top w-50"
-          alt="..."
-        />
+      <div
+        class="card align-items-center animate__animated animate__fadeInUp animate__delay-1s"
+        id="card-img-2"
+      >
+        <img src="../../public/images/Weddings.png" class="card-img-top w-50" alt="..." />
         <div class="card-body">
-          <h5 class="card-title">Orientação de Pais</h5>
+          <h5 class="card-title">Casamentos</h5>
           <p class="card-text">
-            Orientações aos pais relacionadas a comportamentos e como lidar com situações adversas
-            nos diversos ambientes onde seus filhos estão inseridos.
+            Seja um aniversário de 5 anos ou uma festa de 15 anos, nós temos os doces finos que você
+            precisa para tornar a sua celebração ainda mais especial. Com uma variedade de sabores e
+            designs para escolher, nossos doces são perfeitos para adicionar um toque de elegância e
+            sofisticação ao seu evento.
           </p>
         </div>
       </div>
-      <div class="card align-items-center animate__animated animate__fadeInUp animate__delay-2s">
-        <img src="../../public/images/couple-therapy.jpg" class="card-img-top w-50" alt="..." />
+      <div
+        class="card align-items-center animate__animated animate__fadeInUp animate__delay-2s"
+        id="card-img-3"
+      >
+        <img src="../../public/images/Events.png" class="card-img-top w-50" alt="..." />
         <div class="card-body">
-          <h5 class="card-title">Terapia de Casal</h5>
+          <h5 class="card-title">Eventos corporativos</h5>
           <p class="card-text">
-            A terapia de casal possibilitará a identificação e discussão de questões que estão
-            afetando o relacionamento. Como por exemplo, problemas de comunicação, conflitos, falta
-            de intimidade, infidelidade ou outras dificuldades.
+            Nosso serviço de doces finos para eventos corporativos é a escolha perfeita para
+            impressionar seus clientes e colaboradores. Oferecemos uma ampla variedade de opções de
+            sabores e apresentações, criados com ingredientes de alta qualidade e técnicas de
+            confecção de primeira linha. Seja para um coquetel de negócios, uma conferência ou uma
+            festa de final de ano, nossos doces finos são perfeitamente personalizáveis para atender
+            às suas necessidades e garantir que seu evento seja memorável. Com nossa abordagem
+            criativa e profissional, podemos ajudar a tornar sua ocasião especial e de sucesso.
           </p>
         </div>
       </div>
@@ -41,6 +54,21 @@
   </div>
 </template>
 <style services-page>
+#template {
+  background-color: #f4c5faf3;
+}
+.services {
+  background-color: #f4c5faf3;
+}
+
+.card-body {
+  background-color: #f4c5faf3;
+}
+#card-img-1,
+#card-img-2,
+#card-img-3 {
+  background-color: #f4c5faf3;
+}
 .services-title-p3 {
   margin-top: 30px;
   margin-bottom: 30px;

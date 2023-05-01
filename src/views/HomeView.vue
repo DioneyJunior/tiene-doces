@@ -75,49 +75,53 @@
     </div>
 
     <!-- Serviços -->
-    <div class="container-fluid pt-4 pb-4 text-center bg-dark text-white services">
+    <div class="container-fluid pt-4 pb-4 text-center text-white services">
       <h1 class="pb-3 services-title wow">Serviços</h1>
       <div class="card-group wow">
-        <div class="card bg-dark align-items-center wow card-1">
-          <img
-            src="../../public/images/psychotherapy.jpg"
-            class="card-img-top rounded w-50"
-            alt="..."
-          />
+        <div class="card align-items-center wow card-1" id="card-img-1">
+          <img src="../../public/images/Weddings.png" class="card-img-top rounded w-50" alt="..." />
           <div class="card-body">
-            <h5 class="card-title">Atendimento Psicológico</h5>
+            <h5 class="card-title">Casamentos</h5>
             <p class="card-text">
-              Atendimentos Psicológicos voltados para todos os públicos (Infantil, Adolescente,
-              Adulto e Idoso).
+              Nós sabemos que o seu casamento é um dos dias mais importantes da sua vida. É por isso
+              que nos dedicamos a criar doces finos de alta qualidade para tornar o seu grande dia
+              ainda mais especial. Com uma ampla seleção de sabores e estilos, nossos doces para
+              casamentos são perfeitos para deixar seus convidados com água na boca e fazer com que
+              eles se lembrem do seu casamento por muito tempo. De bolos decorados a macarons
+              elegantes, temos tudo o que você precisa para fazer do seu casamento um evento
+              inesquecível.
             </p>
           </div>
         </div>
-        <div class="card bg-dark align-items-center wow card-2">
+        <div class="card align-items-center wow card-2" id="card-img-2">
           <img
-            src="../../public/images/parents-orientation.jpeg"
+            src="../../public/images/birthdays.png"
             class="card-img-top rounded w-50"
             alt="..."
           />
           <div class="card-body">
-            <h5 class="card-title">Orientação de Pais</h5>
+            <h5 class="card-title">Aniversários</h5>
             <p class="card-text">
-              Orientações aos pais relacionadas a comportamentos e como lidar com situações adversas
-              nos diversos ambientes onde seus filhos estão inseridos.
+              Seja um aniversário de 5 anos ou uma festa de 15 anos, nós temos os doces finos que
+              você precisa para tornar a sua celebração ainda mais especial. Com uma variedade de
+              sabores e designs para escolher, nossos doces são perfeitos para adicionar um toque de
+              elegância e sofisticação ao seu evento.
             </p>
           </div>
         </div>
-        <div class="card bg-dark align-items-center wow card-3">
-          <img
-            src="../../public/images/couple-therapy.jpg"
-            class="card-img-top rounded w-50"
-            alt="..."
-          />
+        <div class="card align-items-center wow card-3" id="card-img-3">
+          <img src="../../public/images/Events.png" class="card-img-top rounded w-50" alt="..." />
           <div class="card-body">
-            <h5 class="card-title">Terapia de Casal</h5>
+            <h5 class="card-title">Eventos Corporativos</h5>
             <p class="card-text">
-              A terapia de casal possibilitará a identificação e discussão de questões que estão
-              afetando o relacionamento. Como por exemplo, problemas de comunicação, conflitos,
-              falta de intimidade, infidelidade ou outras dificuldades.
+              Nosso serviço de doces finos para eventos corporativos é a escolha perfeita para
+              impressionar seus clientes e colaboradores. Oferecemos uma ampla variedade de opções
+              de sabores e apresentações, criados com ingredientes de alta qualidade e técnicas de
+              confecção de primeira linha. Seja para um coquetel de negócios, uma conferência ou uma
+              festa de final de ano, nossos doces finos são perfeitamente personalizáveis para
+              atender às suas necessidades e garantir que seu evento seja memorável. Com nossa
+              abordagem criativa e profissional, podemos ajudar a tornar sua ocasião especial e de
+              sucesso.
             </p>
           </div>
         </div>
@@ -274,48 +278,23 @@
   </main>
 </template>
 <style>
-.psycho-title {
-  padding-top: 200px;
-  margin-bottom: 10px;
-  animation: fadeInDown;
-  animation-duration: 2s;
-}
-.psycho-text {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: larger;
-  margin-bottom: 250px;
-  animation: fadeIn;
-  animation-duration: 4s;
-}
-.psycho-image {
-  animation: fadeInRight;
-  animation-duration: 2s;
-}
-.about-title {
-  margin-top: 50px;
-  margin-bottom: 50px;
-  animation: fadeInDown;
-  animation-duration: 2s;
-}
-.about-photo {
-  align-items: center;
-  width: 30%;
-  margin-top: 100px;
-  animation: fadeInDown;
-  animation-duration: 2s;
-}
-.about-text {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: larger;
-  margin-bottom: 200px;
-  animation: fadeInUp;
-  animation-duration: 2s;
-}
 .services-title {
   margin-top: 50px;
   margin-bottom: 50px;
   animation: fadeIn;
   animation-duration: 3s;
+}
+.services {
+  background-color: #4c0c0c;
+}
+
+.card-body {
+  background-color: #4c0c0c;
+}
+#card-img-1,
+#card-img-2,
+#card-img-3 {
+  background-color: #4c0c0c;
 }
 .card {
   border: 0;
