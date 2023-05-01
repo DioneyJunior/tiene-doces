@@ -29,51 +29,6 @@
         </div>
       </div>
     </div>
-    <!-- Quote -->
-    <div class="container-fluid text-center pt-5 pb-5 bg-dark quote-bg">
-      <h1 class="home-quote text-light wow">
-        "A mente é como um jardim. Se não for cultivada, pode se tornar uma selva." - Desmond Tutu
-      </h1>
-    </div>
-    <!-- About Me -->
-    <div class="container text-center">
-      <img
-        class="pt-4 about-photo wow"
-        alt="Foto de perfil do Psicólogo Marciran"
-        src="../../public/images/marciran-photo-prof.png"
-      />
-    </div>
-    <div class="container text-center pt-3">
-      <h2 class="about-title wow">Sobre mim</h2>
-    </div>
-    <div class="container-fluid text-center pt-4 pb-4">
-      <div class="row justify-content-center">
-        <h4 class="col-8 align-self-center about-text wow">
-          <p>
-            Meu nome é <strong>Marciran Eleuterio Brisida</strong>, Sou
-            <strong>Psicólogo Clínico</strong>.
-            <br />
-            Atendo crianças, adolescentes, adultos e idosos.
-          </p>
-
-          <p>
-            Formado em <strong>Psicologia</strong> pela Universidade José do Rosário Vellano -
-            UNIFENAS.
-          </p>
-
-          <p>
-            Especialista em <strong>Terapia Cognitivo-Comportamental</strong> pela Pontifícia
-            Universidade Católica do Paraná - PUCPR.
-          </p>
-
-          <p>
-            Psicólogo credenciado junto ao Conselho Federal de Psicologia - CFP para
-            <strong>atendimento online</strong> segundo a Resolução CFP Nº: 11/2018.
-          </p>
-        </h4>
-      </div>
-    </div>
-
     <!-- Serviços -->
     <div class="container-fluid pt-4 pb-4 text-center text-white services">
       <h1 class="pb-3 services-title wow">Serviços</h1>
