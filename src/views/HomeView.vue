@@ -504,7 +504,4 @@ export default {
     }
   }
 };
-
-// css animation //
-new WOW().init();
 </script>
