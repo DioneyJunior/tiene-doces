@@ -317,39 +317,6 @@
 }
 
 @media screen and (max-width: 500px) {
-  .psycho-title {
-    padding-top: 5px;
-    margin-bottom: 10px;
-  }
-  .psycho-text {
-    margin-top: 20px;
-    margin-bottom: 20px;
-  }
-  .psycho-image {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    animation: fadeIn;
-    animation-duration: 3s;
-  }
-  .about-photo {
-    width: 40%;
-    margin-top: 75px;
-    animation: fadeIn;
-    animation-duration: 3s;
-  }
-  .about-title {
-    margin-top: 0px;
-    margin-bottom: 0px;
-    animation: fadeIn;
-    animation-duration: 3s;
-  }
-  .about-text {
-    margin-top: 10px;
-    width: 100%;
-    margin-bottom: 75px;
-    animation: fadeIn;
-    animation-duration: 3s;
-  }
   .services-title {
     margin-top: 20px;
     margin-bottom: 20px;
