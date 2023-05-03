@@ -160,6 +160,7 @@
 }
 </style>
 <script>
+import "dayjs/locale/pt-br";
 export default {
   data() {
     return {
