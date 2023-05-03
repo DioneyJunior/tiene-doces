@@ -2,9 +2,9 @@
   <div class="container-fluid pt-4 pb-4 text-center" id="template">
     <h1 class="pb-3 services-title-p3">Serviços</h1>
     <div class="card-group">
-      <div class="card align-items-center animate__animated animate__fadeInUp" id="card-img-1">
+      <div class="card align-items-center animate__animated animate__fadeInUp" id="card-img1">
         <img src="../../public/images/birthdays.png" class="card-img-top w-50" alt="..." />
-        <div class="card-body">
+        <div class="card-body" id="card-text-1">
           <h5 class="card-title">Aniversários</h5>
           <p class="card-text">
             Nós sabemos que o seu casamento é um dos dias mais importantes da sua vida. É por isso
@@ -19,10 +19,10 @@
       </div>
       <div
         class="card align-items-center animate__animated animate__fadeInUp animate__delay-1s"
-        id="card-img-2"
+        id="card-img2"
       >
         <img src="../../public/images/Weddings.png" class="card-img-top w-50" alt="..." />
-        <div class="card-body">
+        <div class="card-body" id="card-text-2">
           <h5 class="card-title">Casamentos</h5>
           <p class="card-text">
             Seja um aniversário de 5 anos ou uma festa de 15 anos, nós temos os doces finos que você
@@ -34,10 +34,10 @@
       </div>
       <div
         class="card align-items-center animate__animated animate__fadeInUp animate__delay-2s"
-        id="card-img-3"
+        id="card-img3"
       >
         <img src="../../public/images/Events.png" class="card-img-top w-50" alt="..." />
-        <div class="card-body">
+        <div class="card-body" id="card-text-3">
           <h5 class="card-title">Eventos corporativos</h5>
           <p class="card-text">
             Nosso serviço de doces finos para eventos corporativos é a escolha perfeita para
@@ -55,19 +55,21 @@
 </template>
 <style services-page>
 #template {
-  background-color: #f4c5faf3;
+  background-color: #e9d3ae;
 }
 .services {
-  background-color: #f4c5faf3;
+  background-color: #e9d3ae;
 }
 
-.card-body {
-  background-color: #f4c5faf3;
+#card-text-1,
+#card-text-2,
+#card-text-3 {
+  background-color: #e9d3ae;
 }
-#card-img-1,
-#card-img-2,
-#card-img-3 {
-  background-color: #f4c5faf3;
+#card-img1,
+#card-img2,
+#card-img3 {
+  background-color: #e9d3ae;
 }
 .services-title-p3 {
   margin-top: 30px;

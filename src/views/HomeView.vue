@@ -30,7 +30,7 @@
       </div>
     </div>
     <!-- Serviços -->
-    <div class="container-fluid pt-4 pb-4 text-center text-white services">
+    <div class="container-fluid pt-4 pb-4 text-center text-white services" id="services">
       <h1 class="pb-3 services-title wow">Serviços</h1>
       <div class="card-group wow">
         <div class="card align-items-center wow card-1" id="card-img-1">
@@ -224,7 +224,7 @@
   animation: fadeIn;
   animation-duration: 3s;
 }
-.services {
+#services {
   background-color: #4c0c0c;
 }
 
