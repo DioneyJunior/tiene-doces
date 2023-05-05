@@ -32,10 +32,6 @@
               style="background-image: url('/images/Carousel-item-1.jpg')"
               alt="..."
             ></div>
-            <div class="carousel-caption d-none d-md-block">
-              <h5>lorem ipsum</h5>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </div>
           </div>
           <div class="carousel-item" data-bs-interval="6000">
             <div
@@ -46,10 +42,6 @@
               "
               alt="..."
             ></div>
-            <div class="carousel-caption d-none d-md-block">
-              <h5>lorem ipsum</h5>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </div>
           </div>
           <div class="carousel-item">
             <div
@@ -57,10 +49,6 @@
               style="background-image: url('public/images/Carousel-item-3.jpg')"
               alt="..."
             ></div>
-            <div class="carousel-caption d-none d-md-block">
-              <h5>lorem ipsum</h5>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </div>
           </div>
         </div>
         <button
