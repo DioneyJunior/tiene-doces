@@ -4,10 +4,9 @@
       <a class="navbar-brand text-light" href="#">
         <router-link class="nav-link2" to="/"
           ><img
-            src="/public/favicon.png"
+            src="/public/menu-logo.png"
             alt="Logo"
-            width="35"
-            height="29"
+            height="40"
             class="d-inline-block align-text-top"
           />
         </router-link>
