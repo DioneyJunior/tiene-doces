@@ -37,7 +37,7 @@
             <div
               class="d-block w-100 slide-image"
               style="
-                background-image: url('public/images/Carousel-item-2.jpg');
+                background-image: url('/images/Carousel-item-2.jpg');
                 background-position-y: center;
               "
               alt="..."
@@ -46,7 +46,7 @@
           <div class="carousel-item">
             <div
               class="d-block w-100 slide-image"
-              style="background-image: url('public/images/Carousel-item-3.jpg')"
+              style="background-image: url('/images/Carousel-item-3.jpg')"
               alt="..."
             ></div>
           </div>
@@ -76,7 +76,7 @@
       <h1 class="pb-3 services-title wow">Serviços</h1>
       <div class="card-group wow">
         <div class="card align-items-center wow card-1" id="card-img-1">
-          <img src="../../public/images/Weddings.png" class="card-img-top rounded w-50" alt="..." />
+          <img src="/Weddings.png" class="card-img-top rounded w-50" alt="..." />
           <div class="card-body">
             <h5 class="card-title">Casamentos</h5>
             <p class="card-text">
@@ -87,11 +87,7 @@
           </div>
         </div>
         <div class="card align-items-center wow card-2" id="card-img-2">
-          <img
-            src="../../public/images/birthdays.png"
-            class="card-img-top rounded w-50"
-            alt="..."
-          />
+          <img src="/birthdays.png" class="card-img-top rounded w-50" alt="..." />
           <div class="card-body">
             <h5 class="card-title">Aniversários</h5>
             <p class="card-text">
@@ -103,7 +99,7 @@
           </div>
         </div>
         <div class="card align-items-center wow card-3" id="card-img-3">
-          <img src="../../public/images/Events.png" class="card-img-top rounded w-50" alt="..." />
+          <img src="/Events.png" class="card-img-top rounded w-50" alt="..." />
           <div class="card-body">
             <h5 class="card-title">Eventos Corporativos</h5>
             <p class="card-text">
