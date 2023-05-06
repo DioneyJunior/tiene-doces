@@ -5,15 +5,11 @@
       <div class="card align-items-center animate__animated animate__fadeInUp" id="card-img1">
         <img src="../../public/images/birthdays.png" class="card-img-top w-50" alt="..." />
         <div class="card-body" id="card-text-1">
-          <h5 class="card-title">Aniversários</h5>
+          <h5 class="card-title">Casamentos</h5>
           <p class="card-text">
             Nós sabemos que o seu casamento é um dos dias mais importantes da sua vida. É por isso
             que nos dedicamos a criar doces finos de alta qualidade para tornar o seu grande dia
-            ainda mais especial. Com uma ampla seleção de sabores e estilos, nossos doces para
-            casamentos são perfeitos para deixar seus convidados com água na boca e fazer com que
-            eles se lembrem do seu casamento por muito tempo. De bolos decorados a macarons
-            elegantes, temos tudo o que você precisa para fazer do seu casamento um evento
-            inesquecível.
+            ainda mais especial.
           </p>
         </div>
       </div>
@@ -23,7 +19,7 @@
       >
         <img src="../../public/images/Weddings.png" class="card-img-top w-50" alt="..." />
         <div class="card-body" id="card-text-2">
-          <h5 class="card-title">Casamentos</h5>
+          <h5 class="card-title">Aniversários</h5>
           <p class="card-text">
             Seja um aniversário de 5 anos ou uma festa de 15 anos, nós temos os doces finos que você
             precisa para tornar a sua celebração ainda mais especial. Com uma variedade de sabores e
@@ -41,12 +37,7 @@
           <h5 class="card-title">Eventos corporativos</h5>
           <p class="card-text">
             Nosso serviço de doces finos para eventos corporativos é a escolha perfeita para
-            impressionar seus clientes e colaboradores. Oferecemos uma ampla variedade de opções de
-            sabores e apresentações, criados com ingredientes de alta qualidade e técnicas de
-            confecção de primeira linha. Seja para um coquetel de negócios, uma conferência ou uma
-            festa de final de ano, nossos doces finos são perfeitamente personalizáveis para atender
-            às suas necessidades e garantir que seu evento seja memorável. Com nossa abordagem
-            criativa e profissional, podemos ajudar a tornar sua ocasião especial e de sucesso.
+            impressionar seus clientes e colaboradores.
           </p>
         </div>
       </div>
