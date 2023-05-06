@@ -9,7 +9,6 @@
 </template>
 
 <script>
-import "dayjs/locale/pt-br";
 import { RouterView } from "vue-router";
 import FooterSite from "./components/FooterSite.vue";
 import NavBar from "./components/NavBar.vue";
