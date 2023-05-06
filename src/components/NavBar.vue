@@ -51,6 +51,7 @@ export default {
 }
 .navbar {
   background-color: #4c0c0c;
+  height: 108px;
 }
 .nav-link2 {
   color: white !important;
