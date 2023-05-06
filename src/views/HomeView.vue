@@ -204,8 +204,9 @@
                   </p>
                   <div class="sub-button-p4">
                     <button
+                      id="submit-button"
                       type="submit"
-                      class="btn btn-primary submit-button mt-2 btn-lg w-50"
+                      class="btn btn-primary submit-button btn-lg w-50"
                       :disabled="sendingForm"
                     >
                       <span
@@ -343,6 +344,12 @@ main {
 .a-contact {
   text-decoration: none;
   color: black;
+}
+
+#submit-button {
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
 }
 
 .maps-card {
