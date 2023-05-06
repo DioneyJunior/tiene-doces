@@ -4,6 +4,10 @@
 // Include any default variable overrides here (though functions won't be available)
 $primary: #ce9e60;
 
+#app {
+  background-color: #e9d3ae;
+}
+
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
 // Then add additional custom code here

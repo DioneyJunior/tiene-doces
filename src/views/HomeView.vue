@@ -349,6 +349,9 @@ main {
   margin-left: 5%;
   margin-right: 5%;
 }
+#contact-page {
+  margin-bottom: 15px;
+}
 
 @media screen and (max-width: 500px) {
   .services-title {
