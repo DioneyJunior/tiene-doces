@@ -3,7 +3,7 @@
     <h1 class="pb-3 services-title-p3">Serviços</h1>
     <div class="card-group">
       <div class="card align-items-center animate__animated animate__fadeInUp" id="card-img1">
-        <img src="../../public/images/birthdays.png" class="card-img-top w-50" alt="..." />
+        <img src="/images/birthdays.png" class="card-img-top w-50" alt="..." />
         <div class="card-body" id="card-text-1">
           <h5 class="card-title">Casamentos</h5>
           <p class="card-text">
@@ -17,7 +17,7 @@
         class="card align-items-center animate__animated animate__fadeInUp animate__delay-1s"
         id="card-img2"
       >
-        <img src="../../public/images/Weddings.png" class="card-img-top w-50" alt="..." />
+        <img src="/images/Weddings.png" class="card-img-top w-50" alt="..." />
         <div class="card-body" id="card-text-2">
           <h5 class="card-title">Aniversários</h5>
           <p class="card-text">
@@ -32,7 +32,7 @@
         class="card align-items-center animate__animated animate__fadeInUp animate__delay-2s"
         id="card-img3"
       >
-        <img src="../../public/images/Events.png" class="card-img-top w-50" alt="..." />
+        <img src="/images/Events.png" class="card-img-top w-50" alt="..." />
         <div class="card-body" id="card-text-3">
           <h5 class="card-title">Eventos corporativos</h5>
           <p class="card-text">

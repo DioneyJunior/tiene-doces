@@ -76,7 +76,7 @@
       <h1 class="pb-3 services-title wow">Serviços</h1>
       <div class="card-group wow">
         <div class="card align-items-center wow card-1" id="card-img-1">
-          <img src="/Weddings.png" class="card-img-top rounded w-50" alt="..." />
+          <img src="/images/Weddings.png" class="card-img-top rounded w-50" alt="..." />
           <div class="card-body">
             <h5 class="card-title">Casamentos</h5>
             <p class="card-text">
@@ -87,7 +87,7 @@
           </div>
         </div>
         <div class="card align-items-center wow card-2" id="card-img-2">
-          <img src="/birthdays.png" class="card-img-top rounded w-50" alt="..." />
+          <img src="/images/birthdays.png" class="card-img-top rounded w-50" alt="..." />
           <div class="card-body">
             <h5 class="card-title">Aniversários</h5>
             <p class="card-text">
@@ -99,7 +99,7 @@
           </div>
         </div>
         <div class="card align-items-center wow card-3" id="card-img-3">
-          <img src="/Events.png" class="card-img-top rounded w-50" alt="..." />
+          <img src="/images/Events.png" class="card-img-top rounded w-50" alt="..." />
           <div class="card-body">
             <h5 class="card-title">Eventos Corporativos</h5>
             <p class="card-text">
