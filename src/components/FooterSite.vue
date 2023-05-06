@@ -25,7 +25,7 @@
     </div>
     <div class="footer-bottom">
       <p>
-        copyright &copy;2023
+        © 2023 Tiene Doces Finos - Todos os direitos reservados | Desenvolvido por
         <a href="https://github.com/DioneyJunior" target="_blank">Dioney Junior</a>
       </p>
     </div>
