@@ -359,8 +359,6 @@ main {
     border-top: 0 !important;
     border-right: 0 !important;
     border-left: 0 !important;
-    border-width: 3px !important;
-    border-color: rgba(0, 0, 0, 0.336) !important;
     border-radius: 0rem !important;
     margin-top: 50px;
     margin-bottom: 50px;
