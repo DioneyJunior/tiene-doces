@@ -1,6 +1,6 @@
-# marciran-brisida
+# Tiene doces
 
-This template should help get you started developing with Vue 3 in Vite.
+Site feito para empresa de doces finos para eventos
 
 ## Recommended IDE Setup
 
