@@ -1,5 +1,5 @@
 <template>
-  <footer>
+  <footer class="mt-auto">
     <div class="footer-content">
       <h3>Tiene Doces Finos</h3>
       <p>Doces para seu evento</p>
