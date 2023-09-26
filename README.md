@@ -2,7 +2,8 @@
 
 Site feito para empresa de doces finos para eventos
 
-![Screenshot 2023-09-04 165201](https://github.com/DioneyJunior/tiene-doces/assets/123474113/4561b97d-352a-43ba-a3b4-904f0d7fe7b9)
+![tienedocesfinos.com.br](https://github.com/DioneyJunior/tiene-doces/assets/123474113/f41e7da5-81a8-42ba-b5d8-0e7e2ea8f916)
+
 
 # Hospedagem
 O site está hospedado em: [tienedocesfinos.com.br ](https://tienedocesfinos.com.br/) E  [tiede-doces.pages.dev](https://tiene-doces.pages.dev/) 
